@@ -1,1 +1,1 @@
-# python-small-projects
+# python-intuit-quickbooks-projects
